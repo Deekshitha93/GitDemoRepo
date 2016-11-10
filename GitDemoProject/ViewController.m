@@ -21,6 +21,8 @@
     NSLog(@" view did load");
     
     NSLog(@" New brach changes");
+    
+    NSLog(@" Revert test ");
 }
 
 - (void)didReceiveMemoryWarning {
